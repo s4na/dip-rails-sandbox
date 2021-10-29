@@ -52,18 +52,18 @@ interaction:
     command: yarn
     compose_run_options: [no-deps]
 
-  rspec:
-    description: Run Rails tests
-    service: runner
-    environment:
-      RAILS_ENV: test
-    command: bundle exec rspec
+  # rspec:
+  #   description: Run Rails tests
+  #   service: runner
+  #   environment:
+  #     RAILS_ENV: test
+  #   command: bundle exec rspec
 
-  rubocop:
-    description: Run Rubocop
-    service: runner
-    command: bundle exec rubocop
-    compose_run_options: [no-deps]
+  # rubocop:
+  #   description: Run Rubocop
+  #   service: runner
+  #   command: bundle exec rubocop
+  #   compose_run_options: [no-deps]
 
   psql:
     description: Run psql console
