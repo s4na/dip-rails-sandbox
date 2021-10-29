@@ -1,5 +1,10 @@
 # Dip x Rails Sandbox
 
+## 環境
+
+- Rubyインストール済み
+- Docker Composeインストール済み
+
 ## セットアップ
 
 ```
