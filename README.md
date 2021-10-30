@@ -7,6 +7,8 @@
 
 ## セットアップ
 
+`.env` ファイル作成
+
 ```
 gem install dip
 dip compose build
