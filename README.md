@@ -48,3 +48,7 @@ dip down
 - Dip開発環境作成
   - [docker-composeを便利にするツール「dip」を使ってみた](https://techracho.bpsinc.jp/hachi8833/2021_04_14/83481)
   - [Docker ComposeとDipで開発用コンテナを再利用可能にする（翻訳）](https://techracho.bpsinc.jp/hachi8833/2021_05_20/107397)
+
+- [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+
+- https://github.com/evilmartians/terraforming-rails/tree/master/examples/dockerdev
