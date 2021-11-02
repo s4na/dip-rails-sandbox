@@ -51,4 +51,5 @@ dip down
 
 - [Ruby on Whales: Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
 
-- https://github.com/evilmartians/terraforming-rails/tree/master/examples/dockerdev
+- `/.dockerdev` の元
+  - https://github.com/evilmartians/terraforming-rails/tree/master/examples/dockerdev
